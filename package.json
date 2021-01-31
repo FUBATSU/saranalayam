@@ -1,21 +1,22 @@
 {
-  "name": "saranalayam",
+  "name": "saranalayam-main",
   "version": "1.0.0",
-  "description": "null",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "main -d sarnalayam-gh-pages"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FUBATSU/saranalayam.git"
   },
-  "author": "Rishub'",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FUBATSU/saranalayam/issues"
   },
-  "homepage": "https://FUBATSU.github.io/saranalayam",
+  "homepage": "https://github.com/FUBATSU/saranalayam#readme",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
